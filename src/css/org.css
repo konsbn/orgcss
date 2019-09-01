@@ -2,8 +2,8 @@
 @import "htmlize";
 
 $sans: Helvetica, sans-serif;
-$serif: Georgia, serif;
-$monospace: Lucida Console, monospace;
+$serif: Baskervville Regular, serif;
+$monospace: IBM Plex Mono, monospace;
 $code-size: 80%;
 $smaller: 90%;
 $max-width: 710px;
